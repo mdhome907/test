@@ -1,0 +1,20 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3AA8-021E
+
+ Directory of C:\Users\micha\Source\Repos\test
+
+13/10/2020  11:12    <DIR>          .
+13/10/2020  11:12    <DIR>          ..
+07/10/2020  11:04                 7 1.txt
+08/10/2020  09:07                10 2.txt
+04/06/2020  10:12    <DIR>          App_Data
+13/10/2020  11:06    <DIR>          bin
+13/10/2020  11:12                 0 fred.txt
+13/10/2020  11:06    <DIR>          obj
+13/10/2020  11:07    <DIR>          packages
+13/10/2020  11:01                 8 README.md
+13/10/2020  10:44                 0 test.txt
+13/10/2020  11:10                15 test2
+04/06/2020  10:12             1,484 WebApplication1.vbproj.user
+               7 File(s)          1,524 bytes
+               6 Dir(s)  70,644,281,344 bytes free
