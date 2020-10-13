@@ -1,0 +1,2651 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3AA8-021E
+
+ Directory of C:\Users\micha\Source\Repos\test
+
+13/10/2020  11:16    <DIR>          .
+13/10/2020  11:16    <DIR>          ..
+07/10/2020  11:04                 7 1.txt
+08/10/2020  09:07                10 2.txt
+04/06/2020  10:12    <DIR>          App_Data
+13/10/2020  11:06    <DIR>          bin
+13/10/2020  11:12               807 fred.txt
+13/10/2020  11:16                 0 freddy.txt
+13/10/2020  11:06    <DIR>          obj
+13/10/2020  11:07    <DIR>          packages
+13/10/2020  11:01                 8 README.md
+13/10/2020  10:44                 0 test.txt
+13/10/2020  11:10                15 test2
+04/06/2020  10:12             1,484 WebApplication1.vbproj.user
+               8 File(s)          2,331 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git
+
+13/10/2020  11:13               263 COMMIT_EDITMSG
+13/10/2020  11:09               296 config
+13/10/2020  10:45                73 description
+13/10/2020  11:10                93 FETCH_HEAD
+13/10/2020  11:16                21 HEAD
+13/10/2020  10:45    <DIR>          hooks
+13/10/2020  11:12            47,079 index
+13/10/2020  10:45    <DIR>          info
+13/10/2020  10:45    <DIR>          logs
+13/10/2020  11:10    <DIR>          objects
+13/10/2020  11:10                41 ORIG_HEAD
+13/10/2020  10:53    <DIR>          refs
+               7 File(s)         47,866 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\hooks
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+13/10/2020  10:45               478 applypatch-msg.sample
+13/10/2020  10:45               896 commit-msg.sample
+13/10/2020  10:45             4,655 fsmonitor-watchman.sample
+13/10/2020  10:45               189 post-update.sample
+13/10/2020  10:45               424 pre-applypatch.sample
+13/10/2020  10:45             1,643 pre-commit.sample
+13/10/2020  10:45               416 pre-merge-commit.sample
+13/10/2020  10:45             1,348 pre-push.sample
+13/10/2020  10:45             4,898 pre-rebase.sample
+13/10/2020  10:45               544 pre-receive.sample
+13/10/2020  10:45             1,492 prepare-commit-msg.sample
+13/10/2020  10:45             3,635 update.sample
+              12 File(s)         20,618 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\info
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+13/10/2020  10:45               240 exclude
+               1 File(s)            240 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\logs
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+13/10/2020  11:16             1,759 HEAD
+13/10/2020  10:47    <DIR>          refs
+               1 File(s)          1,759 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\logs\refs
+
+13/10/2020  10:53    <DIR>          .
+13/10/2020  10:53    <DIR>          ..
+13/10/2020  10:47    <DIR>          heads
+13/10/2020  10:53    <DIR>          remotes
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\logs\refs\heads
+
+13/10/2020  11:16    <DIR>          .
+13/10/2020  11:16    <DIR>          ..
+13/10/2020  11:16               166 fred
+13/10/2020  11:13             1,200 main
+               2 File(s)          1,366 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\logs\refs\remotes
+
+13/10/2020  10:53    <DIR>          .
+13/10/2020  10:53    <DIR>          ..
+13/10/2020  10:53    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\logs\refs\remotes\origin
+
+13/10/2020  10:53    <DIR>          .
+13/10/2020  10:53    <DIR>          ..
+13/10/2020  11:13               783 main
+               1 File(s)            783 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects
+
+13/10/2020  11:10    <DIR>          .
+13/10/2020  11:10    <DIR>          ..
+13/10/2020  11:07    <DIR>          07
+13/10/2020  11:07    <DIR>          08
+13/10/2020  11:07    <DIR>          0a
+13/10/2020  11:07    <DIR>          0b
+13/10/2020  11:07    <DIR>          0f
+13/10/2020  11:07    <DIR>          10
+13/10/2020  11:07    <DIR>          13
+13/10/2020  11:07    <DIR>          14
+13/10/2020  11:07    <DIR>          15
+13/10/2020  11:07    <DIR>          16
+13/10/2020  11:07    <DIR>          17
+13/10/2020  11:10    <DIR>          18
+13/10/2020  11:07    <DIR>          19
+13/10/2020  11:07    <DIR>          1a
+13/10/2020  11:07    <DIR>          1b
+13/10/2020  11:07    <DIR>          1c
+13/10/2020  11:07    <DIR>          1d
+13/10/2020  11:07    <DIR>          1e
+13/10/2020  11:07    <DIR>          20
+13/10/2020  11:07    <DIR>          21
+13/10/2020  11:07    <DIR>          23
+13/10/2020  11:07    <DIR>          25
+13/10/2020  11:07    <DIR>          26
+13/10/2020  11:07    <DIR>          27
+13/10/2020  11:07    <DIR>          2a
+13/10/2020  11:07    <DIR>          2c
+13/10/2020  11:07    <DIR>          2d
+13/10/2020  11:07    <DIR>          2e
+13/10/2020  11:07    <DIR>          2f
+13/10/2020  11:07    <DIR>          31
+13/10/2020  11:07    <DIR>          33
+13/10/2020  11:07    <DIR>          34
+13/10/2020  11:07    <DIR>          36
+13/10/2020  11:07    <DIR>          37
+13/10/2020  11:07    <DIR>          38
+13/10/2020  11:07    <DIR>          39
+13/10/2020  11:07    <DIR>          3a
+13/10/2020  11:07    <DIR>          3b
+13/10/2020  11:07    <DIR>          3c
+13/10/2020  11:08    <DIR>          3d
+13/10/2020  11:07    <DIR>          3f
+13/10/2020  11:07    <DIR>          41
+13/10/2020  11:07    <DIR>          42
+13/10/2020  11:07    <DIR>          43
+13/10/2020  11:07    <DIR>          46
+13/10/2020  11:07    <DIR>          47
+13/10/2020  11:07    <DIR>          48
+13/10/2020  11:07    <DIR>          49
+13/10/2020  11:07    <DIR>          4a
+13/10/2020  11:07    <DIR>          4b
+13/10/2020  11:07    <DIR>          4c
+13/10/2020  11:07    <DIR>          4d
+13/10/2020  11:07    <DIR>          4e
+13/10/2020  11:07    <DIR>          51
+13/10/2020  11:07    <DIR>          52
+13/10/2020  11:07    <DIR>          53
+13/10/2020  11:07    <DIR>          55
+13/10/2020  11:07    <DIR>          56
+13/10/2020  11:07    <DIR>          57
+13/10/2020  11:07    <DIR>          58
+13/10/2020  11:07    <DIR>          5a
+13/10/2020  11:07    <DIR>          5b
+13/10/2020  11:07    <DIR>          5c
+13/10/2020  11:07    <DIR>          5d
+13/10/2020  11:07    <DIR>          5e
+13/10/2020  11:07    <DIR>          61
+13/10/2020  11:07    <DIR>          62
+13/10/2020  11:07    <DIR>          64
+13/10/2020  11:07    <DIR>          65
+13/10/2020  11:07    <DIR>          68
+13/10/2020  11:07    <DIR>          69
+13/10/2020  11:07    <DIR>          6a
+13/10/2020  11:07    <DIR>          6b
+13/10/2020  11:07    <DIR>          6c
+13/10/2020  11:07    <DIR>          6d
+13/10/2020  11:07    <DIR>          6e
+13/10/2020  11:07    <DIR>          6f
+13/10/2020  11:07    <DIR>          70
+13/10/2020  11:07    <DIR>          71
+13/10/2020  11:07    <DIR>          72
+13/10/2020  11:07    <DIR>          75
+13/10/2020  11:07    <DIR>          77
+13/10/2020  11:07    <DIR>          78
+13/10/2020  11:07    <DIR>          79
+13/10/2020  11:07    <DIR>          7a
+13/10/2020  11:07    <DIR>          7b
+13/10/2020  11:07    <DIR>          7c
+13/10/2020  11:07    <DIR>          7e
+13/10/2020  11:07    <DIR>          7f
+13/10/2020  11:07    <DIR>          83
+13/10/2020  11:07    <DIR>          84
+13/10/2020  11:07    <DIR>          85
+13/10/2020  11:07    <DIR>          86
+13/10/2020  11:07    <DIR>          87
+13/10/2020  11:07    <DIR>          8a
+13/10/2020  11:07    <DIR>          90
+13/10/2020  11:07    <DIR>          91
+13/10/2020  11:07    <DIR>          92
+13/10/2020  11:07    <DIR>          94
+13/10/2020  11:07    <DIR>          96
+13/10/2020  11:07    <DIR>          98
+13/10/2020  11:07    <DIR>          99
+13/10/2020  11:07    <DIR>          9a
+13/10/2020  11:07    <DIR>          9b
+13/10/2020  11:07    <DIR>          9c
+13/10/2020  11:07    <DIR>          9e
+13/10/2020  11:07    <DIR>          9f
+13/10/2020  11:13    <DIR>          a0
+13/10/2020  11:07    <DIR>          a1
+13/10/2020  11:07    <DIR>          a4
+13/10/2020  11:07    <DIR>          a6
+13/10/2020  11:07    <DIR>          a8
+13/10/2020  11:07    <DIR>          aa
+13/10/2020  11:07    <DIR>          ab
+13/10/2020  11:07    <DIR>          ac
+13/10/2020  11:12    <DIR>          ad
+13/10/2020  11:07    <DIR>          ae
+13/10/2020  11:07    <DIR>          af
+13/10/2020  11:07    <DIR>          b0
+13/10/2020  11:07    <DIR>          b2
+13/10/2020  11:07    <DIR>          b3
+13/10/2020  11:07    <DIR>          b4
+13/10/2020  11:07    <DIR>          b5
+13/10/2020  11:10    <DIR>          b7
+13/10/2020  11:07    <DIR>          b8
+13/10/2020  11:07    <DIR>          b9
+13/10/2020  11:10    <DIR>          bb
+13/10/2020  11:07    <DIR>          bc
+13/10/2020  11:07    <DIR>          bd
+13/10/2020  11:07    <DIR>          bf
+13/10/2020  11:07    <DIR>          c1
+13/10/2020  11:07    <DIR>          c2
+13/10/2020  11:07    <DIR>          c4
+13/10/2020  11:07    <DIR>          c5
+13/10/2020  11:07    <DIR>          c6
+13/10/2020  11:07    <DIR>          c7
+13/10/2020  11:07    <DIR>          c8
+13/10/2020  11:12    <DIR>          c9
+13/10/2020  11:07    <DIR>          ca
+13/10/2020  11:07    <DIR>          cb
+13/10/2020  11:07    <DIR>          cd
+13/10/2020  11:07    <DIR>          ce
+13/10/2020  11:07    <DIR>          cf
+13/10/2020  11:07    <DIR>          d0
+13/10/2020  11:07    <DIR>          d5
+13/10/2020  11:07    <DIR>          d7
+13/10/2020  11:07    <DIR>          d8
+13/10/2020  11:07    <DIR>          d9
+13/10/2020  11:07    <DIR>          da
+13/10/2020  11:07    <DIR>          db
+13/10/2020  11:07    <DIR>          dc
+13/10/2020  11:07    <DIR>          de
+13/10/2020  11:07    <DIR>          df
+13/10/2020  11:07    <DIR>          e1
+13/10/2020  11:07    <DIR>          e2
+13/10/2020  11:07    <DIR>          e3
+13/10/2020  11:07    <DIR>          e4
+13/10/2020  11:07    <DIR>          e5
+13/10/2020  11:07    <DIR>          e6
+13/10/2020  11:07    <DIR>          e7
+13/10/2020  11:07    <DIR>          e8
+13/10/2020  11:07    <DIR>          ea
+13/10/2020  11:07    <DIR>          eb
+13/10/2020  11:07    <DIR>          ec
+13/10/2020  11:07    <DIR>          ed
+13/10/2020  11:07    <DIR>          ee
+13/10/2020  11:07    <DIR>          ef
+13/10/2020  11:07    <DIR>          f1
+13/10/2020  11:07    <DIR>          f3
+13/10/2020  11:07    <DIR>          f4
+13/10/2020  11:07    <DIR>          f5
+13/10/2020  11:07    <DIR>          f6
+13/10/2020  11:07    <DIR>          f7
+13/10/2020  11:07    <DIR>          f8
+13/10/2020  11:07    <DIR>          f9
+13/10/2020  11:07    <DIR>          fa
+13/10/2020  11:07    <DIR>          fb
+13/10/2020  11:07    <DIR>          fc
+13/10/2020  11:07    <DIR>          fe
+13/10/2020  11:07    <DIR>          ff
+13/10/2020  10:45    <DIR>          info
+13/10/2020  10:45    <DIR>          pack
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\07
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         2,066,521 71ae23620c1e085e87ce4fd268f82759d5e0f0
+               1 File(s)      2,066,521 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\08
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               105 bc4030649b27eb8697d63d5894da47b73b7995
+13/10/2020  11:07                79 e7d30799f2aab50768771ebf725e25b0d8d217
+               2 File(s)            184 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\0a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           123,892 e3de50864d93c1f79a4e659641a5d248bca2bb
+               1 File(s)        123,892 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\0b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                73 4358a4408281425f3473b8750ff18ec9c303e8
+               1 File(s)             73 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\0f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           532,848 2f447448aeca947e9a7a33ef1382cddc1a07fe
+               1 File(s)        532,848 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\10
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           215,431 1fdadd64447c6488634e3efce887bfd6001562
+13/10/2020  11:07            11,632 d0876c301119a4bfb0b03e96207860d2275567
+               2 File(s)        227,063 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\13
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,698 7ecf86755c978200aff433cbdff71926a2ee9b
+13/10/2020  11:07            15,193 9c5ec04fa0c2bd57d801cc22a956dbe9011e36
+13/10/2020  11:07             8,121 ab1fc35e49d48c18b041da29f105715d9d25f3
+13/10/2020  11:07             1,668 ad1030239ff7980dd7df9332fbfa88eaac7705
+13/10/2020  11:07               160 c5c16449879681ff9c192888320b9f632e3d43
+               5 File(s)         37,840 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\14
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               187 032aabd85b43a058cfc7025dd4fa9dd325ea97
+13/10/2020  11:07            24,964 13fc609ab6f21774de0cb7e01360095584f65b
+               2 File(s)         25,151 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\15
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,159 950e04671566d6d6ab895e816a388a79a765d9
+13/10/2020  11:07            80,511 af2dfc770f6c1ac22a5b7deaba754f1972dc85
+               2 File(s)         86,670 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\16
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,659 b24465b9035ccfe623d2db538e43a516af3b98
+               1 File(s)         12,659 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\17
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            20,627 0bd608f7fdf12827f69d31a7586fb490ba67d4
+               1 File(s)         20,627 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\18
+
+13/10/2020  11:10    <DIR>          .
+13/10/2020  11:10    <DIR>          ..
+13/10/2020  11:07               149 b61e9f132a63fcd3da933a94672d44c5c2a8d9
+13/10/2020  11:10               305 d08c74e33f6c201a273d7b00159522e797e33e
+               2 File(s)            454 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\19
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,157 27bed57f848ea7c8a5f246135ccc1fa21b4010
+13/10/2020  11:07             3,228 863a35364867606217866c97412fe83153881b
+               2 File(s)          9,385 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\1a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,283 4550a5f942aa81178ea87f0a60fd466470ff7b
+13/10/2020  11:07                22 bcd1d715c07d83b28d64e3a5d1a83ac4b38eb2
+               2 File(s)          2,305 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\1b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,336 fd64c865f42ffc34ac490961ebea6f72c6229f
+               1 File(s)          8,336 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\1c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           187,964 97714890b29d10ed8e1fbc0e1a63030f344d0f
+               1 File(s)        187,964 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\1d
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                91 27bb6613abdd37bf895444ef42cea7e4078f27
+13/10/2020  11:07             2,048 caa680bf4d7098e6d56f8a13bae43b103b3300
+               2 File(s)          2,139 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\1e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                49 ebf9b5dcdb626b79576bfe6f89f95ad34f2839
+               1 File(s)             49 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\20
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         1,774,055 ab202a7a99ef9b8e63c38a7451bc9a344ca282
+13/10/2020  10:45               134 d37a6f4db070a6f7c7f8fea3307dd14eb4c14f
+               2 File(s)      1,774,189 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\21
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                65 0d72b0b2921bda8bd450ac4b9c8e85ecf1c45e
+13/10/2020  11:07               533 681d9eddcc5b476a82baa23cfedfc389e43378
+               2 File(s)            598 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\23
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            13,781 a12b8dfb98da3561a212482e4a400924d1f7e2
+13/10/2020  11:07             3,014 b6487d29a319da0ede3001864cc880a720a839
+               2 File(s)         16,795 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\25
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            47,154 d3048d7d51d232386b2c2a67e8f2fe6f99755f
+               1 File(s)         47,154 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\26
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,145 88f566fba09a99c643dd605922374c38faa5ac
+13/10/2020  11:07                48 a5a9088dcd473475716f65cb4f51892b12b4c5
+               2 File(s)          8,193 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\27
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             7,338 2d686df25609e7108ec332e41835d40df6bb11
+13/10/2020  11:07                49 c08419219eebc99252c225266fcf8ccd366cd7
+               2 File(s)          7,387 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\2a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,420 460bfe255e5229c3eb88199927ad4a13a97e6c
+13/10/2020  11:07             3,307 69f48c7f5badb22c914953a6b49d6fbf3df9ba
+13/10/2020  11:07            29,563 c4f655eb510f1b1da5486176e550be1fb85153
+               3 File(s)         41,290 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\2c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            25,973 520a96326d70649aed75caa6e13a0d6371f740
+               1 File(s)         25,973 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\2d
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,353 b5ab93e35f2a10c9ccde79d4ef97ba8df40a3d
+13/10/2020  11:07               149 c44d8f4cd6f19ca0f1c348f6fe1976caddb85b
+               2 File(s)          2,502 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\2e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,065 7cd91add1c0b438d3077934fb0325d7da94811
+13/10/2020  11:07               161 c6fc9b4069b1eab6ea236d69fa90a5ef1fe210
+13/10/2020  11:07            12,802 dee668e7af0eaa025b60f2255aaeeb0f90a5cb
+               3 File(s)         15,028 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\2f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            63,780 0fb9a2d88c3404827d5608b6c470b5c6b1780c
+13/10/2020  11:07            53,021 d00f137e5931814092fae9d544a1e52867bcd6
+               2 File(s)        116,801 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\31
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,088 0129cc73847f410d4376fa36901d3092949ad4
+               1 File(s)          2,088 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\33
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            18,481 653390e4f58f501264b71581bf587d7ebe0f11
+               1 File(s)         18,481 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\34
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               292 3db62954d99b9d2185b1eeaa48614e82536cc9
+13/10/2020  11:07            27,833 54d6aa8b9bcc24319d4275f123d5208d8c464e
+               2 File(s)         28,125 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\36
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            17,700 0e92aa6970382a8c4ad85fe37887c08dcaec2f
+13/10/2020  11:07                49 5a856db30bc3e3de9592d462a148b4af37f543
+               2 File(s)         17,749 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\37
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                90 1d76b76d667d31ae8eacb1acc6df590f851136
+               1 File(s)             90 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\38
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               330 e964963e79372acdabd1ad0ad2b6ca12b7774a
+               1 File(s)            330 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\39
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            36,000 3d41655d4671086a885fb15892e953bba9b75e
+               1 File(s)         36,000 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\3a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            45,192 a8e117f82014bb8ed440804bd1edf0dc983921
+               1 File(s)         45,192 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\3b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,803 612ff010068b7a2f17f564a771919f6edbe94d
+13/10/2020  11:07            14,188 ace35288cba7349f4a0c80a31260cc70529cc3
+               2 File(s)         20,991 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\3c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            14,742 8176dc87354da5926c4cceb5a435701875c30a
+13/10/2020  11:07             6,170 925021d7087bb0f4e5c9ab39afb4baba9f4e98
+13/10/2020  11:07               127 ca4b9462add1388f1ab10807962002d305d46e
+13/10/2020  11:07               625 dcde332fed037735063384c8c9149d79267c2e
+               4 File(s)         21,664 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\3d
+
+13/10/2020  11:08    <DIR>          .
+13/10/2020  11:08    <DIR>          ..
+13/10/2020  11:07            13,079 5103bfa8df281ddf1abc845d42d749b389e13b
+13/10/2020  11:08               163 80dac7f07a84d960fdae795ca89e10ebb5f6c2
+               2 File(s)         13,242 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\3f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                75 35f3ccf6a2dd173619179ef4cf80db986ff2e1
+               1 File(s)             75 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\41
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,492 74a21cfc35789af700646b215a001275ee9e75
+               1 File(s)          8,492 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\42
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               280 6e3a64ada1f60ebdefd9f02bf62eca976386d3
+13/10/2020  11:07           589,042 e08309e3b14927e2b3891d1eb630d15089ae6d
+               2 File(s)        589,322 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\43
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               264 53eaaf98113a121d5dacbfbfd88ea118bdac1e
+13/10/2020  11:07           281,566 95f61011c9a01e09520319ccba468292335656
+               2 File(s)        281,830 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\46
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               204 eea2de2a4853b2868a547773dcb87478cc68e0
+               1 File(s)            204 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\47
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,132 75606ca67db186cc09c6c8b1d37ae1082f3bd0
+               1 File(s)          6,132 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\48
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            25,960 93d9e0123a7d04e711482a3004fd6eaf4b46a6
+               1 File(s)         25,960 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\49
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           265,149 b799767e5e1637dcb90cd29bdd88ee6cf35aed
+13/10/2020  11:07                76 caf1128972ba98b80d36949814f0224266da82
+               2 File(s)        265,225 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\4a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           112,335 faf35b34a3992fa61fc8e5bf190ace0dc58777
+               1 File(s)        112,335 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\4b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               132 74a1adc4c60d12d155edfc2b8c87904cc61c8a
+13/10/2020  10:45                15 825dc642cb6eb9a060e54bf8d69288fbee4904
+               2 File(s)            147 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\4c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             1,016 ce60952f028c40a30d845b9a9b24a8f08f61ba
+               1 File(s)          1,016 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\4d
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            22,416 0120310226dee60912cbacc73d2c3f933bec00
+               1 File(s)         22,416 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\4e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                47 1962ea12f24a1664144b780f25dcf1e7c87c74
+               1 File(s)             47 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\51
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               612 be8a8ba9edc22ae50c5e655207445c63b20e4b
+               1 File(s)            612 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\52
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           235,789 4a78388d55cf8a05f4c9e3e1e80070c0bfd79d
+13/10/2020  11:07            48,263 882c196d3ee23b5780a0c4496ee5c52b278893
+               2 File(s)        284,052 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\53
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           269,134 4d057de3db239d4185d51b38e7cab84e637cc1
+13/10/2020  11:07             8,160 694284f9630af4b9dcdab8f5d2e175cf048d9c
+13/10/2020  11:07               809 fb51df45342f8b83ffad15f550171740bb04a0
+               3 File(s)        278,103 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\55
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           466,008 27462adf00d21f210f5ff49bf33f673bdbf014
+13/10/2020  11:07           237,100 4e99de9d4dd950c7990097a59e22ca2b75fc29
+13/10/2020  11:07            59,543 61a92f6a2eea31c3cd53c11acbc68999d2f8e0
+13/10/2020  11:07            50,315 ccb0fe185ce02561b57df16c568b674b60bd0a
+               4 File(s)        812,966 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\56
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            23,855 43f65ec881d4f82c621f92cfa2910bb0d9b074
+13/10/2020  11:07               890 b5c1a28f616682f6c9a9522828d1e30f9b457a
+               2 File(s)         24,745 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\57
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               263 33481e476fa1f7f511cbe7703785e3142fa408
+               1 File(s)            263 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\58
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               930 91165422ba3646778a80523d5b7509e67c4425
+               1 File(s)            930 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\5a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               900 8ddf5867bfc6651c262eae5550d0037807ed56
+               1 File(s)            900 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\5b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                77 9010b9d56976375653219900c778d5fbfed67f
+13/10/2020  11:07            25,224 96335ff6a02021199d731eaa19ccadd1dc8af8
+               2 File(s)         25,301 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\5c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            11,904 b9dfb0c2fae8df13540e84d6c8d67b6a66d38c
+               1 File(s)         11,904 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\5d
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            11,398 75106e042b7a66107a0d44abea854895076733
+13/10/2020  11:07             2,116 7e456d45994461d45657f80351bd111d81a702
+13/10/2020  11:07               164 f2bbea0be3859e975783b1a40a55c35a8c25e8
+               3 File(s)         13,678 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\5e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               702 3bcdb9407a251bcdc26de0307524680cf24c0b
+13/10/2020  11:07           560,469 bef7fe292eaf725025142a43f8f667700cf003
+13/10/2020  11:07            13,094 c85f36e701c9756fda8283c8983d7e8c55eb0e
+13/10/2020  10:45                53 fb9bc29c482e023e40e0a2b3b7e49cec842034
+               4 File(s)        574,318 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\61
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               543 1436194c093ec53688730c05ecc1e2e163bbd2
+13/10/2020  11:07             6,154 affb9c6157db035c09e0cc5c682c563079e656
+               2 File(s)          6,697 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\62
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,016 e14c6455d4c5c03565b492b05d1a13ebd89f93
+               1 File(s)         12,016 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\64
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            18,055 539b54c3751a6d9adb44c8e3a45ba5a73b77f0
+13/10/2020  11:07               625 db19f579259d9c787ed3029be3913a9f5748f0
+               2 File(s)         18,680 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\65
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               149 853816939af79816b097dda40fbac909ba6623
+               1 File(s)            149 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\68
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               623 8240a72b6221844957570df25582395a569dbd
+               1 File(s)            623 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\69
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                48 d18a0932ab711641052d7715f6e5006380c349
+13/10/2020  11:07               115 e1fa183394fffe20f053b9ae46c2efbbb6f103
+               2 File(s)            163 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,156 096c233bc4fdf63dfee837c67f95df1868f68e
+13/10/2020  11:07               651 1235fb7ba6ba6b60fc4e575f9610ee1909062d
+               2 File(s)          6,807 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               194 502731ff6775556d3276f637f2bc751eef158d
+               1 File(s)            194 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               154 05a9776bd7cbae976fdcec7e3a254e93018279
+13/10/2020  11:07           150,404 4a15d475678b1b2459e64e5dae0e17db135d5c
+13/10/2020  11:07               888 626efa5a43c94fdc1496d97545d50e4bcf4298
+               3 File(s)        151,446 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6d
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,658 9990c9a25352dbf9bd54b115451c514b1c19c3
+               1 File(s)          8,658 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           201,003 233b9f770b61d3a366711793819c360c379cf7
+               1 File(s)        201,003 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\6f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,340 4fb6c8cadcbbb459db7e2d58608112942cd0da
+13/10/2020  11:07               893 9899f37f8e93ebda7d33976aada849e57eb0bc
+13/10/2020  11:07                48 aee03bc3ab298ce1589de459485b0f939a9734
+13/10/2020  11:07            94,763 c2d69aad585e299f035f88c35f77e0bc28aed5
+               4 File(s)         98,044 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\70
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            13,047 14ca9f1db16955a242529b88d0eeabce95da7f
+13/10/2020  11:07            58,717 2c55723e65d8f6c4e0b6b2ace224ebbec0da75
+13/10/2020  11:07            27,887 77f16a0e65350f2bdd0747e9e4594cb4fcda1f
+               3 File(s)         99,651 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\71
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               602 6d5b766c003172161e8522304f94000d356c27
+13/10/2020  11:07             6,160 ae67faf16e0991844d2c248594c0400c6eff1c
+               2 File(s)          6,762 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\72
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         2,504,136 6966bf22afc8baa92b3870d99a0baf7b00fde5
+               1 File(s)      2,504,136 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\75
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                85 75cfba6b75be2565178c6f4dd3edba69d4622c
+               1 File(s)             85 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\77
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,818 248bfb1dd9d193fc3b2d7acbc1e2714bc80fc0
+13/10/2020  11:07           101,394 3ad95c56f8321eb4901736930024ec517a948a
+13/10/2020  11:07                62 b92f7d7ad1e57e6613a666f3a0d7988783d2fd
+               3 File(s)        114,274 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\78
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            31,895 a185143e6ab00b3c0dd181de0b9ffc972a2375
+               1 File(s)         31,895 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\79
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,377 e54a7534a9812d752c56a32adc3a2f4d96525a
+               1 File(s)          2,377 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\7a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               249 60077e90c037d662a19a4477d98027e7fc6e2b
+13/10/2020  11:07             6,157 d802d23def98144319060835ace2404e02bb87
+               2 File(s)          6,406 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\7b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  10:54               559 ae4b3c6cc65bce2abb347798ec4e5f66cb3992
+13/10/2020  11:07               165 bfda2ad877e2bd80c99f5ed5e998f2e2aa970f
+13/10/2020  11:07               158 c9bec31c7e0564346bde00c5a806f9f0596059
+               3 File(s)            882 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\7c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,831 4397746d214d36fb77fe9e7c776afb91b50894
+13/10/2020  11:07               390 6230577889485eeab34918d329d2cbd7d0a5fd
+               2 File(s)         13,221 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\7e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           173,857 8bbedca13ee08c7c9ba4026016ee0861c79ab1
+               1 File(s)        173,857 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\7f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            64,456 79e7d06a78f2fac238114bb4e0022d7dfbede1
+               1 File(s)         64,456 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\83
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               632 50880b91e58e66424b8b054936a84972869e11
+13/10/2020  11:07                22 c831f0b085c70509b1fbb0a0131a9a32e691ac
+               2 File(s)            654 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\84
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            67,813 fa7d4894134f2a140d9d4bf1840f069e0e74b0
+               1 File(s)         67,813 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\85
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                48 50d6bdc8aa82abc9c1c0f64ad52d276b729c7b
+13/10/2020  11:07            23,061 f1138c57b711e57118dce935ac1863954349a8
+               2 File(s)         23,109 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\86
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,891 a25a356f4f90e5bfce7863fb6b8c071610bd1e
+               1 File(s)         12,891 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\87
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               176 f138c5197fbc75e8b13d42adaeb3afc27122de
+               1 File(s)            176 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\8a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                57 239d3cdc97df9e9db55e8143c6b1e3b5caba61
+13/10/2020  11:07               220 71107dea04a2b6c3d5641293221433db53daf6
+13/10/2020  11:07                91 8198b34ae9054b11b925e6412b0735dbd6b2f8
+13/10/2020  11:07             6,162 f58bd7cbda08cd191d7efefe42530d54b8cd0a
+               4 File(s)          6,530 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\90
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           121,717 0e64e4076b3e95197d45b084700689c77f517e
+               1 File(s)        121,717 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\91
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           276,622 006b3f7b68f0e6ac3fe13e8c50747a65ad52c7
+               1 File(s)        276,622 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\92
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                91 2cdcd35612a5ddd21aee8006384c3bba336766
+               1 File(s)             91 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\94
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,022 9748e3ebfae76c4e7d4a8510dcbeda99f86144
+13/10/2020  11:07             8,769 9d09738fd98c2a8fe6c54d733834db3c82a59f
+13/10/2020  11:07            33,301 fb5490a2ed10b2c69a4a567a4fd2e4f706d841
+               3 File(s)         44,092 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\96
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            67,352 703564a57df472b26be178898ae2e93063ebe8
+13/10/2020  11:07               510 96701334cb7083b6731120f9714810d8c15109
+13/10/2020  11:07               151 e81d8fec43b066eeff07a5812f6a8c4dfc405f
+               3 File(s)         68,013 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\98
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               528 078978d57f22aa0191e1239dba03aecd04c7fe
+13/10/2020  11:07                73 5ae53f326c1f2f127db35158fb9a7fa1f5cefa
+13/10/2020  11:07            59,715 7647c65201941bac336e731df663e4f46b2732
+13/10/2020  11:07             6,153 bad816c9a726fe2319276356393ee5790205a7
+               4 File(s)         66,469 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\99
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               166 308203ac9ead4ea1245d10fd62d4254758c9ee
+               1 File(s)            166 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\9a
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               139 7ca05d61119658d5f5a0dcad1c4625fa48be35
+               1 File(s)            139 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\9b
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                47 dba6d009b9cf41e277bf81a3e96f610856e6e0
+               1 File(s)             47 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\9c
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               156 da1d5b3b1902851b2b33e11401f8cd1edaec19
+               1 File(s)            156 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\9e
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            23,210 612858f802245ddcbf59788a0db942224bab35
+               1 File(s)         23,210 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\9f
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               525 333e1b76100a8a85115d8f51270d66c5c1f3e0
+13/10/2020  11:07            69,150 875d62e693a43fef3948bdf1445d5551d3928a
+               2 File(s)         69,675 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\a0
+
+13/10/2020  11:13    <DIR>          .
+13/10/2020  11:13    <DIR>          ..
+13/10/2020  11:07                83 184cea88a9d20ba8449edf053371ffd01fefc4
+13/10/2020  11:13               164 29f303421271afbde7e23a4012e44fc4ba94eb
+13/10/2020  11:07                48 6642c64ed200d0658d1e68a310b0b532207155
+13/10/2020  11:07               194 e4a61ced9edebbc0c0e9fa740346c202658701
+               4 File(s)            489 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\a1
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            14,980 234ce81a34b96a23173c2c4af7863ce36e5d85
+13/10/2020  11:07            35,754 c07fd803b5fc9c54f44e31123ae4fa11e134b0
+               2 File(s)         50,734 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\a4
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,154 1957929b146d24333e3c91612624d7c7098e7b
+13/10/2020  11:07                91 27a1dcea71edf5a4a2725221bf775b35aa8867
+               2 File(s)          6,245 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\a6
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,507 03a3f4ec239d26d877cc0c7b1e56cc79314f04
+13/10/2020  11:07           492,420 a80d37f43d3756b33c89736aabbe722ce40700
+               2 File(s)        494,927 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\a8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           750,838 7aeb6a11345024192ef91011fdaad1d974fdc5
+13/10/2020  11:07            23,415 8b6c6e3f1ae81c37d05452d3dab82e30b9655a
+               2 File(s)        774,253 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\aa
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             1,697 7a3e299f131cdc2c39196d282a05da227cfaac
+13/10/2020  11:07            81,954 abce8392529ef00f059869f3cc949ee28d3b43
+               2 File(s)         83,651 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ab
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           269,097 dfe025fe7b94e47fa1c51329edabea3b605ee4
+               1 File(s)        269,097 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ac
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                50 340c89b4cba0e375d7a960c8f419b93d8e9734
+               1 File(s)             50 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ad
+
+13/10/2020  11:12    <DIR>          .
+13/10/2020  11:12    <DIR>          ..
+13/10/2020  11:12               354 45024e96cbab4feb0380616708062733bc4818
+13/10/2020  11:07            12,516 9c238cad3407ff8cd3a47781ca737942030007
+13/10/2020  11:07            14,271 a40e0648094632c89c01dea850af49b352081f
+13/10/2020  11:07               703 b45bdf918c4f7667e7aa2ed340aae0846e67d3
+               4 File(s)         27,844 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ae
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            16,396 06c42df988f8750c0772aa70e6cfe1cca7ccbc
+13/10/2020  11:07                72 4dbd5c3e110f733fa853a4b3d34ccbe7085b2f
+               2 File(s)         16,468 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\af
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            28,451 151cfe3feac4541ed4855e7801a52a5728e739
+13/10/2020  10:54                87 95046dc2c9c75e69f8bdb06e152f5fe1022b6f
+               2 File(s)         28,538 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b0
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               884 61c65d8e04594ca1e941408ec482f8da7105ea
+               1 File(s)            884 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b2
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            10,861 959bf83fa9a8d8bd5b3d90668fe4e935aee83d
+               1 File(s)         10,861 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b3
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         2,208,953 7dd9a72348aa7ef26473e83e25b7511273234e
+               1 File(s)      2,208,953 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b4
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,163 9f087e7604adb400157dca0f97a10aa3dd02f2
+               1 File(s)          6,163 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b5
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                91 64e7bc7add2b440b73286eb8325a5d3ceb7af8
+               1 File(s)             91 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b7
+
+13/10/2020  11:10    <DIR>          .
+13/10/2020  11:10    <DIR>          ..
+13/10/2020  11:10               555 87ec149970ebf11e778042bf869056d2cf8d97
+               1 File(s)            555 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           278,319 ea6e0e27527675d0fe0359bed022b995013f1e
+               1 File(s)        278,319 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\b9
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            20,060 3a4953fff68df523aa7656497ee339d6026d64
+13/10/2020  11:07            48,145 63933d5f72162ebc0ba1030f019e285dccc7dd
+               2 File(s)         68,205 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\bb
+
+13/10/2020  11:10    <DIR>          .
+13/10/2020  11:10    <DIR>          ..
+13/10/2020  11:12                26 7ca849d184bd6ceb1167eed23c9318ca1eca58
+13/10/2020  11:07               110 931ed3544f68409efb801126275621a89d9c24
+13/10/2020  11:07               228 b3f5cde806748819b8cebea99540627cb7be10
+13/10/2020  11:07                50 dbaf1fe96df5b53a0e7d8b7077a75c6f37ed0a
+               4 File(s)            414 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\bc
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             8,678 3c13014502ec159c015b3b9e01d555eb66178f
+               1 File(s)          8,678 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\bd
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,231 4c9242aec3c9309b3836d196e8dae880ee026f
+               1 File(s)          6,231 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\bf
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            11,697 09462fd7760fe16df0f60e969ac22057430a7a
+13/10/2020  11:07             2,897 b8753f8fe14baf28c4c85bd0e1e524cc4151af
+               2 File(s)         14,594 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c1
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         2,047,925 01e41db552925a6654b5218c53945ee9fe9c1b
+13/10/2020  11:07            69,233 c32cd6de018e371d36e5e2efea11e34e30d785
+               2 File(s)      2,117,158 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c2
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            11,970 273cf45c6a9b88bb6df814687766fcf63b26eb
+13/10/2020  11:07               885 9baa75ee16cf8dbbacf2847e51942253b92cfd
+13/10/2020  11:07               196 b1c6fbd2ad630308d8b74d349d395bb763603e
+               3 File(s)         13,051 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c4
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             3,679 0412d5f458d9a971c07b2f1e2d58ac9ba50fb1
+13/10/2020  11:07                79 5325e37539a834015fd359d9587ad6040b7add
+               2 File(s)          3,758 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c5
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                92 5f2cae8f6ac1e65c215e24713b243949f81d75
+               1 File(s)             92 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c6
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,272 885a3cba8787fe990d01855711be88ee7fef09
+13/10/2020  11:07             2,111 eec2bb999eaf6944f05ff4d4ec7e265daab7ea
+               2 File(s)          8,383 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c7
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            25,482 21fb7ec678e692469e7348624360e80247b9e8
+13/10/2020  11:07                51 aba5034b6932782af78fa2f65fece4cd7be646
+13/10/2020  11:07           900,029 d4fb8d52e06aee427725a8278c082f1909550f
+               3 File(s)        925,562 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             7,629 12f3fa7c01df6be4f07bedd09f152486f4485c
+13/10/2020  11:07        13,608,901 169b0d001bbc1c21d807f372c0fe08c5a4a760
+13/10/2020  11:07            58,608 d2336c0867210983ea7d5c88ca8b47233ed241
+               3 File(s)     13,675,138 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\c9
+
+13/10/2020  11:12    <DIR>          .
+13/10/2020  11:12    <DIR>          ..
+13/10/2020  11:12               334 362a38638828341703ebc3c4ff31962bb32957
+13/10/2020  11:07               183 6834a31dde00ae86510dd119ee828d00d59004
+               2 File(s)            517 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ca
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            95,461 ac3e61254729e2afa39052bdd1121b80ad883a
+13/10/2020  11:07           378,825 f22218cbea19070c57e55ff075f71445167583
+13/10/2020  11:07               488 fc0f11f69c1e914aa889d16fb01269032e88d7
+               3 File(s)        474,774 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\cb
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                58 2290ca1b5ea4bc56594513da3807bc2693d757
+13/10/2020  11:07               139 53fc6d03c5cc08f4d6d4c4826afc3ec8da2700
+               2 File(s)            197 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\cd
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            60,612 4ec4a59162d05c6997fc4326cc3b48c0f4f688
+13/10/2020  11:07            29,829 8aa39f14f774e14cb5b75216f48a5353c53375
+               2 File(s)         90,441 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ce
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               586 72ac60cf253c82870e9e4afd48c93382c40638
+               1 File(s)            586 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\cf
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            13,003 138d3825dadeb254594e1b146f567ebc353b25
+               1 File(s)         13,003 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\d0
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             1,824 983688b7f0a76bd1c7465f78a2282d8732e9c7
+13/10/2020  11:07               152 bb5cb1e05d19837c4d9d8efe3580e9855b6aec
+               2 File(s)          1,976 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\d5
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               209 3a81a9a02fc88779edb8c14cce8604dc5f040a
+               1 File(s)            209 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\d7
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             5,438 54c78996baa5dad86f4ec9c2303fe409c1eaed
+13/10/2020  11:07               176 7b1614d8b8fb18bfdb12a6fabd94934007feb6
+13/10/2020  11:07            12,786 b2a2ce4c44ca551f76e88d5e6e346a8c951049
+               3 File(s)         18,400 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\d8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           466,220 d752dc892ea10c8c903db30985ff1676b7123f
+               1 File(s)        466,220 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\d9
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                73 9ec175ea07923a282cb0f7688b4cd9d60d4f5a
+               1 File(s)             73 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\da
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                22 3177f436c1682e1f1398bcedce7daeaecfc170
+               1 File(s)             22 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\db
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               155 7d939c64e4cb24964e74a0d6fa33e46b4163e1
+               1 File(s)            155 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\dc
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               581 13b515a96a0f73447140d1c00818d125141a90
+13/10/2020  11:07                92 65b4aa634d0e56da63611eed662bc8e118a9df
+               2 File(s)            673 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\de
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            12,897 1ec5e5949ae4f05d314518ed909648b66af510
+13/10/2020  11:07            23,982 af9fc9f65d2f1ce54c462c0670d90ff309c36c
+               2 File(s)         36,879 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\df
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                88 189e9c96ef8952f78b94350af27b46c2a79dda
+13/10/2020  11:07               664 aadbe4938e4994f3975c73701c9f9c7735a60b
+               2 File(s)            752 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e1
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            63,344 5edef2c718c3e0f6050a1d4e6d749386296e0d
+13/10/2020  11:07               109 d155119cbc8e4c2e55e6679a9cbef566feec9e
+               2 File(s)         63,453 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e2
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             2,776 092095ac0c3f6f06bdd232341759dd3054eb23
+13/10/2020  11:07               107 0ff779d467f4c6c69c1024d653af5af817664b
+13/10/2020  11:07               665 640928b3e8bcd5e37cadc3886bff84376a4773
+               3 File(s)          3,548 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e3
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07           702,107 76a20352bb547c881ad93a9529ad3fedd5fae9
+               1 File(s)        702,107 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e4
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,170 bbbd1315338f2cad53e6b7cc0473c89fb4b7ea
+               1 File(s)          6,170 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e5
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            45,483 0edac8367e19a4e67c9055ee79bec1c2514473
+               1 File(s)         45,483 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e6
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            55,808 74bd4c9c68a0b2e5c7998f519fc7b16c2595c6
+13/10/2020  11:07                15 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+13/10/2020  11:07            18,604 af9609b65b535fc0780735ec5d3ea1d865f1ee
+               3 File(s)         74,427 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e7
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07         1,141,646 a6979fd840c0e7c51b0947048747c70910e91b
+               1 File(s)      1,141,646 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\e8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                79 69496ad1e67e279eca3a54348044b0803110bc
+               1 File(s)             79 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ea
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             3,473 33f76a772ae050a6477242cac663c00942f764
+13/10/2020  11:07             1,635 d100f4f3ef98e76a20348042dbfc127c6e8c1a
+13/10/2020  11:07            19,378 fb192b625ab55eba9526a9c4ec52698c79d7ef
+               3 File(s)         24,486 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\eb
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            13,274 0a8b410f59eb8abcd21e588f1a7b718db3eebd
+               1 File(s)         13,274 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ec
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             1,360 e1d2eadaae1d9dac29563b34edcc2fad3c73a7
+               1 File(s)          1,360 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ed
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               493 ba71efd5acc8a4babb2bdff0fa9cbc83ececfd
+               1 File(s)            493 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ee
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                50 97ff786f948620965a414cb9bdf55b498ad25d
+               1 File(s)             50 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ef
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            65,848 574bb6af0d9b86ae1f92d2a9ca3fec8dc61720
+13/10/2020  11:07             6,166 c884269b684034a8bfc574badaa091fd2df4d0
+               2 File(s)         72,014 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f1
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             6,160 a86a28718e95b18b6c11f1999e85c972a1fb9f
+               1 File(s)          6,160 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f3
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                72 38fdb5432990ec2bfc6ed5fc4a5afcb5d81edf
+13/10/2020  11:07               110 82a4224a575e65cc0741c39cd06687a9b57c39
+13/10/2020  11:07                81 f1fba86ab25ef7814decdfb62b755441a7d8d2
+               3 File(s)            263 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f4
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            17,571 7e609332228456fe27a0ea3a8ff29f2c35582b
+               1 File(s)         17,571 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f5
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                91 4b02559489c198575315d3da79d1ec7321b457
+               1 File(s)             91 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f6
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             9,086 6d5726637d3996eea8d78afee30e87bcc3d341
+               1 File(s)          9,086 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f7
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               342 ad615b10aec72a442756a24c3968b1fb80fe4b
+               1 File(s)            342 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f8
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                91 4163a19f38a9d24dc60aa74566a79ad858b762
+13/10/2020  11:07            60,773 468a652440be5ecce5ee80442d8a5e66c99d37
+               2 File(s)         60,864 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\f9
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07             7,851 2d46ae36cbf0ffb21e9f1d2a7a7f9abef7749b
+               1 File(s)          7,851 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\fa
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07            19,176 8ad65196969677548106912e98ba0fbc9484d0
+13/10/2020  11:07             2,304 eeafeb767fc59caa31beb8c54f53bea50f0859
+               2 File(s)         21,480 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\fb
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07                47 4a16f867d6ed544fa3a24cacd734a317efa734
+13/10/2020  11:07            11,675 afb3a4148f6f7285455c39506d14794231b72c
+13/10/2020  11:07            22,360 b216aab19ab62fd9586bca462379ee708688fd
+               3 File(s)         34,082 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\fc
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               191 9e38400ba87444dec2088fd70427793c8a59d4
+13/10/2020  11:07            28,344 ab41554ad7f471346b76aff336d329fde68722
+               2 File(s)         28,535 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\fe
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               930 b95c5d861c6675e2658e2b0664cff2605ffbf2
+               1 File(s)            930 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\ff
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:07               168 01dd1a617d5dfa8d8ab4e3753b909d49909924
+13/10/2020  11:07             7,205 1f7e442ba89c918653398f6fb11792a1c2d248
+               2 File(s)          7,373 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\info
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\objects\pack
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\refs
+
+13/10/2020  10:53    <DIR>          .
+13/10/2020  10:53    <DIR>          ..
+13/10/2020  11:16    <DIR>          heads
+13/10/2020  10:53    <DIR>          remotes
+13/10/2020  10:45    <DIR>          tags
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\refs\heads
+
+13/10/2020  11:16    <DIR>          .
+13/10/2020  11:16    <DIR>          ..
+13/10/2020  11:16                41 fred
+13/10/2020  11:13                41 main
+               2 File(s)             82 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\refs\remotes
+
+13/10/2020  10:53    <DIR>          .
+13/10/2020  10:53    <DIR>          ..
+13/10/2020  11:13    <DIR>          origin
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\refs\remotes\origin
+
+13/10/2020  11:13    <DIR>          .
+13/10/2020  11:13    <DIR>          ..
+13/10/2020  11:13                41 main
+               1 File(s)             41 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\.git\refs\tags
+
+13/10/2020  10:45    <DIR>          .
+13/10/2020  10:45    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\App_Data
+
+04/06/2020  10:12    <DIR>          .
+04/06/2020  10:12    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\bin
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+10/09/2013  16:29           103,424 Antlr3.Runtime.dll
+10/09/2013  16:29           435,712 Antlr3.Runtime.pdb
+15/03/2019  11:59             5,632 AspNet.ScriptManager.bootstrap.dll
+16/05/2019  12:33             5,632 AspNet.ScriptManager.jQuery.dll
+30/07/2013  16:57            45,752 Microsoft.AspNet.FriendlyUrls.dll
+30/07/2013  16:57            16,435 Microsoft.AspNet.FriendlyUrls.xml
+11/02/2014  15:26            15,056 Microsoft.AspNet.Web.Optimization.WebForms.dll
+05/09/2018  16:10            40,168 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+05/09/2018  16:05             3,187 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+06/09/2013  11:20            15,056 Microsoft.ScriptManager.MSAjax.dll
+06/09/2013  11:20            13,008 Microsoft.ScriptManager.WebForms.dll
+25/07/2012  11:48            45,416 Microsoft.Web.Infrastructure.dll
+22/04/2019  01:06           675,752 Newtonsoft.Json.dll
+22/04/2019  00:57           701,978 Newtonsoft.Json.xml
+13/10/2020  11:06    <DIR>          roslyn
+11/02/2014  15:26            70,864 System.Web.Optimization.dll
+11/02/2014  15:26            50,585 System.Web.Optimization.xml
+06/10/2020  10:46            13,824 WebApplication1.dll
+04/06/2020  10:12             2,301 WebApplication1.dll.config
+06/10/2020  10:46            52,736 WebApplication1.pdb
+06/10/2020  10:46             2,627 WebForms_Basic.xml
+23/01/2014  13:57         1,274,520 WebGrease.dll
+              21 File(s)      3,589,665 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\bin\roslyn
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+08/08/2018  05:38            49,584 csc.exe
+08/08/2018  12:18             7,880 csc.exe.config
+08/08/2018  12:09             1,496 csc.rsp
+08/08/2018  05:38            15,272 csi.exe
+08/08/2018  12:18             8,476 csi.exe.config
+08/08/2018  12:09               279 csi.rsp
+08/08/2018  05:38           122,288 Microsoft.Build.Tasks.CodeAnalysis.dll
+08/08/2018  05:38         4,896,176 Microsoft.CodeAnalysis.CSharp.dll
+08/08/2018  05:38            28,592 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+08/08/2018  05:38         2,721,712 Microsoft.CodeAnalysis.dll
+08/08/2018  05:38           127,920 Microsoft.CodeAnalysis.Scripting.dll
+08/08/2018  05:38         5,425,584 Microsoft.CodeAnalysis.VisualBasic.dll
+08/08/2018  12:09             6,818 Microsoft.CSharp.Core.targets
+05/12/2017  09:36         1,495,800 Microsoft.DiaSymReader.Native.amd64.dll
+05/12/2017  09:36         1,188,080 Microsoft.DiaSymReader.Native.x86.dll
+08/08/2018  12:09             7,517 Microsoft.Managed.Core.targets
+08/08/2018  12:09             6,236 Microsoft.VisualBasic.Core.targets
+05/11/2016  18:55            22,768 Microsoft.Win32.Primitives.dll
+05/11/2016  18:55            20,168 System.AppContext.dll
+16/05/2018  03:29           358,536 System.Collections.Immutable.dll
+05/11/2016  18:55            34,496 System.Console.dll
+05/11/2016  18:55            35,760 System.Diagnostics.DiagnosticSource.dll
+05/11/2016  18:55            23,464 System.Diagnostics.FileVersionInfo.dll
+05/11/2016  18:55            23,288 System.Diagnostics.StackTrace.dll
+05/11/2016  18:56            23,296 System.Globalization.Calendars.dll
+05/11/2016  18:56           111,984 System.IO.Compression.dll
+05/11/2016  18:56            24,824 System.IO.Compression.ZipFile.dll
+05/11/2016  18:56            22,736 System.IO.FileSystem.dll
+05/11/2016  18:56            22,784 System.IO.FileSystem.Primitives.dll
+05/11/2016  18:56           265,048 System.Net.Http.dll
+05/11/2016  18:56            46,280 System.Net.Sockets.dll
+16/05/2018  03:29           584,848 System.Reflection.Metadata.dll
+05/11/2016  18:57            33,256 System.Runtime.InteropServices.RuntimeInformation.dll
+05/11/2016  18:57            39,872 System.Security.Cryptography.Algorithms.dll
+05/11/2016  18:57            23,480 System.Security.Cryptography.Encoding.dll
+05/11/2016  18:57            22,816 System.Security.Cryptography.Primitives.dll
+05/11/2016  18:57            38,872 System.Security.Cryptography.X509Certificates.dll
+05/11/2016  18:57           766,872 System.Text.Encoding.CodePages.dll
+05/11/2016  18:57            25,864 System.Threading.Tasks.Extensions.dll
+05/11/2016  18:57            77,672 System.ValueTuple.dll
+05/11/2016  18:57            23,264 System.Xml.ReaderWriter.dll
+05/11/2016  18:57            23,256 System.Xml.XmlDocument.dll
+05/11/2016  18:57            22,720 System.Xml.XPath.dll
+05/11/2016  18:57            25,320 System.Xml.XPath.XDocument.dll
+08/08/2018  05:38            49,584 vbc.exe
+08/08/2018  12:18             7,880 vbc.exe.config
+08/08/2018  12:09             1,634 vbc.rsp
+08/08/2018  05:38            87,472 VBCSCompiler.exe
+08/08/2018  12:18             8,097 VBCSCompiler.exe.config
+              49 File(s)     19,007,921 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\obj
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Debug
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\obj\Debug
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+04/06/2020  10:12               313 .NETFramework,Version=v4.7.2.AssemblyAttributes.vb
+04/06/2020  10:12            13,942 DesignTimeResolveAssemblyReferencesInput.cache
+04/06/2020  10:12    <DIR>          TempPE
+06/10/2020  10:46            13,824 WebApplication1.dll
+06/10/2020  10:46            52,736 WebApplication1.pdb
+06/10/2020  10:46               180 WebApplication1.Resources.resources
+06/10/2020  10:46                 0 WebApplication1.vbproj.CopyComplete
+04/06/2020  10:14                42 WebApplication1.vbproj.CoreCompileInputs.cache
+04/06/2020  10:14             6,526 WebApplication1.vbproj.FileListAbsolute.txt
+04/06/2020  10:14               954 WebApplication1.vbproj.GenerateResource.cache
+04/06/2020  12:53           120,496 WebApplication1.vbprojAssemblyReference.cache
+06/10/2020  10:46             2,627 WebForms_Basic.xml
+              11 File(s)        211,640 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\obj\Debug\TempPE
+
+04/06/2020  10:12    <DIR>          .
+04/06/2020  10:12    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:06    <DIR>          Antlr.3.5.0.2
+13/10/2020  11:06    <DIR>          AspNet.ScriptManager.bootstrap.3.4.1
+13/10/2020  11:06    <DIR>          AspNet.ScriptManager.jQuery.3.4.1
+13/10/2020  11:06    <DIR>          bootstrap.3.4.1
+13/10/2020  11:06    <DIR>          jQuery.3.4.1
+13/10/2020  11:06    <DIR>          Microsoft.AspNet.FriendlyUrls.Core.1.0.2
+13/10/2020  11:06    <DIR>          Microsoft.AspNet.ScriptManager.MSAjax.5.0.0
+13/10/2020  11:06    <DIR>          Microsoft.AspNet.ScriptManager.WebForms.5.0.0
+13/10/2020  11:06    <DIR>          Microsoft.AspNet.Web.Optimization.1.1.3
+13/10/2020  11:06    <DIR>          Microsoft.AspNet.Web.Optimization.WebForms.1.1.3
+13/10/2020  11:06    <DIR>          Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+13/10/2020  11:06    <DIR>          Microsoft.Web.Infrastructure.1.0.0.0
+13/10/2020  11:06    <DIR>          Modernizr.2.8.3
+13/10/2020  11:06    <DIR>          Newtonsoft.Json.12.0.2
+13/10/2020  11:07    <DIR>          WebGrease.1.6.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Antlr.3.5.0.2
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+14/10/2018  21:05             9,472 .signature.p7s
+04/06/2020  10:12           156,224 Antlr.3.5.0.2.nupkg
+13/10/2020  11:06    <DIR>          lib
+               2 File(s)        165,696 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Antlr.3.5.0.2\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+10/09/2013  16:29           103,424 Antlr3.Runtime.dll
+10/09/2013  16:29           435,712 Antlr3.Runtime.pdb
+               2 File(s)        539,136 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.bootstrap.3.4.1
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+15/03/2019  12:01             9,467 .signature.p7s
+04/06/2020  10:12            16,695 AspNet.ScriptManager.bootstrap.3.4.1.nupkg
+13/10/2020  11:06    <DIR>          lib
+               2 File(s)         26,162 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.bootstrap.3.4.1\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net40
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.bootstrap.3.4.1\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+15/03/2019  11:59             5,632 AspNet.ScriptManager.bootstrap.dll
+               1 File(s)          5,632 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.bootstrap.3.4.1\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+15/03/2019  11:59             5,632 AspNet.ScriptManager.bootstrap.dll
+               1 File(s)          5,632 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.jQuery.3.4.1
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+20/05/2019  11:04             9,467 .signature.p7s
+04/06/2020  10:12            16,662 AspNet.ScriptManager.jQuery.3.4.1.nupkg
+13/10/2020  11:06    <DIR>          lib
+               2 File(s)         26,129 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.jQuery.3.4.1\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net40
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.jQuery.3.4.1\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+16/05/2019  12:33             5,632 AspNet.ScriptManager.jQuery.dll
+               1 File(s)          5,632 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\AspNet.ScriptManager.jQuery.3.4.1\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+16/05/2019  12:33             5,632 AspNet.ScriptManager.jQuery.dll
+               1 File(s)          5,632 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  13:32             9,473 .signature.p7s
+04/06/2020  10:12           759,099 bootstrap.3.4.1.nupkg
+13/10/2020  11:06    <DIR>          content
+13/10/2020  11:06    <DIR>          contentFiles
+13/02/2019  20:54             1,106 LICENSE.txt
+               3 File(s)        769,678 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Content
+13/10/2020  11:06    <DIR>          fonts
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\content\Content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            25,682 bootstrap-theme.css
+13/02/2019  20:54            48,005 bootstrap-theme.css.map
+13/02/2019  20:54            23,411 bootstrap-theme.min.css
+13/02/2019  20:54            75,600 bootstrap-theme.min.css.map
+13/02/2019  20:54           145,933 bootstrap.css
+13/02/2019  20:54           390,887 bootstrap.css.map
+13/02/2019  20:54           121,457 bootstrap.min.css
+13/02/2019  20:54           540,434 bootstrap.min.css.map
+               8 File(s)      1,371,409 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\content\fonts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            20,127 glyphicons-halflings-regular.eot
+13/02/2019  20:54           108,738 glyphicons-halflings-regular.svg
+13/02/2019  20:54            45,404 glyphicons-halflings-regular.ttf
+13/02/2019  20:54            23,424 glyphicons-halflings-regular.woff
+13/02/2019  20:54            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\content\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            75,484 bootstrap.js
+13/02/2019  20:54            39,680 bootstrap.min.js
+               2 File(s)        115,164 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\contentFiles
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Content
+13/10/2020  11:06    <DIR>          fonts
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\contentFiles\Content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            25,682 bootstrap-theme.css
+13/02/2019  20:54            48,005 bootstrap-theme.css.map
+13/02/2019  20:54            23,411 bootstrap-theme.min.css
+13/02/2019  20:54            75,600 bootstrap-theme.min.css.map
+13/02/2019  20:54           145,933 bootstrap.css
+13/02/2019  20:54           390,887 bootstrap.css.map
+13/02/2019  20:54           121,457 bootstrap.min.css
+13/02/2019  20:54           540,434 bootstrap.min.css.map
+               8 File(s)      1,371,409 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\contentFiles\fonts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            20,127 glyphicons-halflings-regular.eot
+13/02/2019  20:54           108,738 glyphicons-halflings-regular.svg
+13/02/2019  20:54            45,404 glyphicons-halflings-regular.ttf
+13/02/2019  20:54            23,424 glyphicons-halflings-regular.woff
+13/02/2019  20:54            18,028 glyphicons-halflings-regular.woff2
+               5 File(s)        215,721 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\bootstrap.3.4.1\contentFiles\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/02/2019  20:54            75,484 bootstrap.js
+13/02/2019  20:54            39,680 bootstrap.min.js
+               2 File(s)        115,164 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\jQuery.3.4.1
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+02/05/2019  11:18             9,467 .signature.p7s
+13/10/2020  11:06    <DIR>          Content
+04/06/2020  10:12           383,985 jQuery.3.4.1.nupkg
+13/10/2020  11:06    <DIR>          Tools
+               2 File(s)        393,452 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\jQuery.3.4.1\Content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\jQuery.3.4.1\Content\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+02/05/2019  11:15           254,827 jquery-3.4.1-vsdoc.js
+02/05/2019  11:15           280,364 jquery-3.4.1.js
+02/05/2019  11:15            88,145 jquery-3.4.1.min.js
+02/05/2019  11:15           136,409 jquery-3.4.1.min.map
+02/05/2019  11:15           227,022 jquery-3.4.1.slim.js
+02/05/2019  11:15            71,037 jquery-3.4.1.slim.min.js
+02/05/2019  11:15           108,769 jquery-3.4.1.slim.min.map
+               7 File(s)      1,166,573 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\jQuery.3.4.1\Tools
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+02/05/2019  11:15             4,013 common.ps1
+02/05/2019  11:15             1,332 install.ps1
+02/05/2019  11:15           162,316 jquery-3.4.1.intellisense.js
+02/05/2019  11:15             1,546 uninstall.ps1
+               4 File(s)        169,207 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+07/10/2018  07:19             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            63,556 Microsoft.AspNet.FriendlyUrls.Core.1.0.2.nupkg
+               2 File(s)         73,030 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net40
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+30/07/2013  16:57            45,752 Microsoft.AspNet.FriendlyUrls.dll
+30/07/2013  16:57            14,847 Microsoft.AspNet.FriendlyUrls.xml
+               2 File(s)         60,599 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+30/07/2013  16:57            45,752 Microsoft.AspNet.FriendlyUrls.dll
+30/07/2013  16:57            16,435 Microsoft.AspNet.FriendlyUrls.xml
+               2 File(s)         62,187 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+07/10/2018  11:14             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          content
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            86,688 Microsoft.AspNet.ScriptManager.MSAjax.5.0.0.nupkg
+               2 File(s)         96,162 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\content\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          WebForms
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\content\Scripts\WebForms
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          MSAjax
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\content\Scripts\WebForms\MSAjax
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+06/09/2013  11:20            99,269 MicrosoftAjax.js
+06/09/2013  11:20             8,971 MicrosoftAjaxApplicationServices.js
+06/09/2013  11:20            24,214 MicrosoftAjaxComponentModel.js
+06/09/2013  11:20            26,944 MicrosoftAjaxCore.js
+06/09/2013  11:20            20,033 MicrosoftAjaxGlobalization.js
+06/09/2013  11:20             6,726 MicrosoftAjaxHistory.js
+06/09/2013  11:20            12,830 MicrosoftAjaxNetwork.js
+06/09/2013  11:20             5,792 MicrosoftAjaxSerialization.js
+06/09/2013  11:20             2,621 MicrosoftAjaxTimer.js
+06/09/2013  11:20            39,547 MicrosoftAjaxWebForms.js
+06/09/2013  11:20             4,803 MicrosoftAjaxWebServices.js
+              11 File(s)        251,750 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+06/09/2013  11:20            15,056 Microsoft.ScriptManager.MSAjax.dll
+               1 File(s)         15,056 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+07/10/2018  11:08             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          content
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            52,929 Microsoft.AspNet.ScriptManager.WebForms.5.0.0.nupkg
+               2 File(s)         62,403 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\content\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          WebForms
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\content\Scripts\WebForms
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+06/09/2013  11:20             1,343 DetailsView.js
+06/09/2013  11:20             3,067 Focus.js
+06/09/2013  11:20             1,503 GridView.js
+06/09/2013  11:20            33,311 Menu.js
+06/09/2013  11:20            27,802 MenuStandards.js
+06/09/2013  11:20            10,819 SmartNav.js
+06/09/2013  11:20             9,410 TreeView.js
+06/09/2013  11:20            22,408 WebForms.js
+06/09/2013  11:20            27,246 WebParts.js
+06/09/2013  11:20            27,020 WebUIValidation.js
+              10 File(s)        163,929 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+06/09/2013  11:20            13,008 Microsoft.ScriptManager.WebForms.dll
+               1 File(s)         13,008 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.1.1.3
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+17/12/2018  15:17             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            52,874 Microsoft.AspNet.Web.Optimization.1.1.3.nupkg
+               2 File(s)         62,348 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net40
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+11/02/2014  15:26            70,864 System.Web.Optimization.dll
+11/02/2014  15:26            50,585 system.web.optimization.xml
+               2 File(s)        121,449 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+07/10/2018  06:35             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          content
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            21,398 Microsoft.AspNet.Web.Optimization.WebForms.1.1.3.nupkg
+               2 File(s)         30,872 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+11/02/2014  15:26               292 web.config.transform
+               1 File(s)            292 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+11/02/2014  15:26            15,056 Microsoft.AspNet.Web.Optimization.WebForms.dll
+               1 File(s)         15,056 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+17/12/2018  16:01            22,345 .signature.p7s
+13/10/2020  11:06    <DIR>          build
+13/10/2020  11:06    <DIR>          content
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12        13,709,859 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg
+13/10/2020  11:06    <DIR>          tools
+               2 File(s)     13,732,204 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+13/10/2020  11:06    <DIR>          net46
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:04               271 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+05/09/2018  16:04             5,753 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+               2 File(s)          6,024 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:04               275 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+05/09/2018  16:04             5,753 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+               2 File(s)          6,028 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+13/10/2020  11:06    <DIR>          net46
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:04             2,421 app.config.install.xdt
+05/09/2018  16:04               994 app.config.uninstall.xdt
+05/09/2018  16:04             2,131 web.config.install.xdt
+05/09/2018  16:04               742 web.config.uninstall.xdt
+               4 File(s)          6,288 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\content\net46
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:04             2,432 app.config.install.xdt
+05/09/2018  16:04               994 app.config.uninstall.xdt
+05/09/2018  16:04             2,142 web.config.install.xdt
+05/09/2018  16:04               742 web.config.uninstall.xdt
+               4 File(s)          6,310 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:10            40,168 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+05/09/2018  16:05             3,187 Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+               2 File(s)         43,355 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net45
+13/10/2020  11:06    <DIR>          Roslyn45
+13/10/2020  11:06    <DIR>          RoslynLatest
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+05/09/2018  16:15            16,072 install.ps1
+05/09/2018  16:13            13,928 uninstall.ps1
+               2 File(s)         30,000 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+27/06/2016  21:50            50,032 csc.exe
+27/06/2016  21:50             1,711 csc.exe.config
+27/06/2016  21:50             1,496 csc.rsp
+27/06/2016  21:50            13,680 csi.exe
+27/06/2016  21:50               253 csi.rsp
+27/06/2016  21:50           105,392 Microsoft.Build.Tasks.CodeAnalysis.dll
+27/06/2016  21:50         4,211,112 Microsoft.CodeAnalysis.CSharp.dll
+27/06/2016  21:50            28,088 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+27/06/2016  21:50         2,049,432 Microsoft.CodeAnalysis.dll
+27/06/2016  21:50           128,432 Microsoft.CodeAnalysis.Scripting.dll
+27/06/2016  21:50         5,061,040 Microsoft.CodeAnalysis.VisualBasic.dll
+27/06/2016  21:50             6,908 Microsoft.CSharp.Core.targets
+27/06/2016  21:50         1,264,912 Microsoft.DiaSymReader.Native.amd64.dll
+27/06/2016  21:50           967,432 Microsoft.DiaSymReader.Native.x86.dll
+27/06/2016  21:50             6,340 Microsoft.VisualBasic.Core.targets
+27/06/2016  21:50            20,168 System.AppContext.dll
+27/06/2016  21:50           200,440 System.Collections.Immutable.dll
+27/06/2016  21:50            22,776 System.Diagnostics.StackTrace.dll
+27/06/2016  21:50            20,696 System.IO.FileSystem.dll
+27/06/2016  21:50            20,736 System.IO.FileSystem.Primitives.dll
+27/06/2016  21:50           425,864 System.Reflection.Metadata.dll
+27/06/2016  21:50            50,032 vbc.exe
+27/06/2016  21:50             1,711 vbc.exe.config
+27/06/2016  21:50             1,634 vbc.rsp
+27/06/2016  21:50            85,896 VBCSCompiler.exe
+27/06/2016  21:50             1,927 VBCSCompiler.exe.config
+              26 File(s)     14,748,140 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+08/08/2018  05:38            49,584 csc.exe
+08/08/2018  12:18             7,880 csc.exe.config
+08/08/2018  12:09             1,496 csc.rsp
+08/08/2018  05:38            15,272 csi.exe
+08/08/2018  12:18             8,476 csi.exe.config
+08/08/2018  12:09               279 csi.rsp
+08/08/2018  05:38           122,288 Microsoft.Build.Tasks.CodeAnalysis.dll
+08/08/2018  05:38         4,896,176 Microsoft.CodeAnalysis.CSharp.dll
+08/08/2018  05:38            28,592 Microsoft.CodeAnalysis.CSharp.Scripting.dll
+08/08/2018  05:38         2,721,712 Microsoft.CodeAnalysis.dll
+08/08/2018  05:38           127,920 Microsoft.CodeAnalysis.Scripting.dll
+08/08/2018  05:38         5,425,584 Microsoft.CodeAnalysis.VisualBasic.dll
+08/08/2018  12:09             6,818 Microsoft.CSharp.Core.targets
+05/12/2017  09:36         1,495,800 Microsoft.DiaSymReader.Native.amd64.dll
+05/12/2017  09:36         1,188,080 Microsoft.DiaSymReader.Native.x86.dll
+08/08/2018  12:09             7,517 Microsoft.Managed.Core.targets
+08/08/2018  12:09             6,236 Microsoft.VisualBasic.Core.targets
+05/11/2016  18:55            22,768 Microsoft.Win32.Primitives.dll
+05/11/2016  18:55            20,168 System.AppContext.dll
+16/05/2018  03:29           358,536 System.Collections.Immutable.dll
+05/11/2016  18:55            34,496 System.Console.dll
+05/11/2016  18:55            35,760 System.Diagnostics.DiagnosticSource.dll
+05/11/2016  18:55            23,464 System.Diagnostics.FileVersionInfo.dll
+05/11/2016  18:55            23,288 System.Diagnostics.StackTrace.dll
+05/11/2016  18:56            23,296 System.Globalization.Calendars.dll
+05/11/2016  18:56           111,984 System.IO.Compression.dll
+05/11/2016  18:56            24,824 System.IO.Compression.ZipFile.dll
+05/11/2016  18:56            22,736 System.IO.FileSystem.dll
+05/11/2016  18:56            22,784 System.IO.FileSystem.Primitives.dll
+05/11/2016  18:56           265,048 System.Net.Http.dll
+05/11/2016  18:56            46,280 System.Net.Sockets.dll
+16/05/2018  03:29           584,848 System.Reflection.Metadata.dll
+05/11/2016  18:57            33,256 System.Runtime.InteropServices.RuntimeInformation.dll
+05/11/2016  18:57            39,872 System.Security.Cryptography.Algorithms.dll
+05/11/2016  18:57            23,480 System.Security.Cryptography.Encoding.dll
+05/11/2016  18:57            22,816 System.Security.Cryptography.Primitives.dll
+05/11/2016  18:57            38,872 System.Security.Cryptography.X509Certificates.dll
+05/11/2016  18:57           766,872 System.Text.Encoding.CodePages.dll
+05/11/2016  18:57            25,864 System.Threading.Tasks.Extensions.dll
+05/11/2016  18:57            77,672 System.ValueTuple.dll
+05/11/2016  18:57            23,264 System.Xml.ReaderWriter.dll
+05/11/2016  18:57            23,256 System.Xml.XmlDocument.dll
+05/11/2016  18:57            22,720 System.Xml.XPath.dll
+05/11/2016  18:57            25,320 System.Xml.XPath.XDocument.dll
+08/08/2018  05:38            49,584 vbc.exe
+08/08/2018  12:18             7,880 vbc.exe.config
+08/08/2018  12:09             1,634 vbc.rsp
+08/08/2018  05:38            87,472 VBCSCompiler.exe
+08/08/2018  12:18             8,097 VBCSCompiler.exe.config
+              49 File(s)     19,007,921 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.Web.Infrastructure.1.0.0.0
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/12/2018  18:30             9,474 .signature.p7s
+13/10/2020  11:06    <DIR>          lib
+04/06/2020  10:12            34,499 Microsoft.Web.Infrastructure.1.0.0.0.nupkg
+               2 File(s)         43,973 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          net40
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+25/07/2012  11:48            45,416 Microsoft.Web.Infrastructure.dll
+               1 File(s)         45,416 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Modernizr.2.8.3
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+14/10/2018  21:04             9,466 .signature.p7s
+13/10/2020  11:06    <DIR>          Content
+04/06/2020  10:12            30,599 Modernizr.2.8.3.nupkg
+13/10/2020  11:06    <DIR>          Tools
+               2 File(s)         40,065 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Modernizr.2.8.3\Content
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+13/10/2020  11:06    <DIR>          Scripts
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Modernizr.2.8.3\Content\Scripts
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+19/08/2014  21:50            51,351 modernizr-2.8.3.js
+               1 File(s)         51,351 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Modernizr.2.8.3\Tools
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+19/08/2014  21:50             2,997 common.ps1
+19/08/2014  21:50               344 install.ps1
+19/08/2014  21:50               194 uninstall.ps1
+               3 File(s)          3,535 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+21/04/2019  18:23            18,498 .signature.p7s
+13/10/2020  11:07    <DIR>          lib
+22/04/2019  00:53             1,104 LICENSE.md
+04/06/2020  10:12         2,521,025 Newtonsoft.Json.12.0.2.nupkg
+               3 File(s)      2,540,627 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/10/2020  11:06    <DIR>          net20
+13/10/2020  11:06    <DIR>          net35
+13/10/2020  11:06    <DIR>          net40
+13/10/2020  11:06    <DIR>          net45
+13/10/2020  11:06    <DIR>          netstandard1.0
+13/10/2020  11:07    <DIR>          netstandard1.3
+13/10/2020  11:07    <DIR>          netstandard2.0
+13/10/2020  11:07    <DIR>          portable-net40+sl5+win8+wp8+wpa81
+13/10/2020  11:07    <DIR>          portable-net45+win8+wp8+wpa81
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\net20
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+22/04/2019  01:06           553,896 Newtonsoft.Json.dll
+22/04/2019  00:57           598,643 Newtonsoft.Json.xml
+               2 File(s)      1,152,539 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\net35
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+22/04/2019  01:06           488,360 Newtonsoft.Json.dll
+22/04/2019  00:57           543,762 Newtonsoft.Json.xml
+               2 File(s)      1,032,122 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\net40
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+22/04/2019  01:06           554,408 Newtonsoft.Json.dll
+22/04/2019  00:57           555,681 Newtonsoft.Json.xml
+               2 File(s)      1,110,089 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\net45
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+22/04/2019  01:06           675,752 Newtonsoft.Json.dll
+22/04/2019  00:57           701,978 Newtonsoft.Json.xml
+               2 File(s)      1,377,730 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.0
+
+13/10/2020  11:06    <DIR>          .
+13/10/2020  11:06    <DIR>          ..
+22/04/2019  01:06           645,544 Newtonsoft.Json.dll
+22/04/2019  00:57           680,623 Newtonsoft.Json.xml
+               2 File(s)      1,326,167 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\netstandard1.3
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+22/04/2019  01:06           663,976 Newtonsoft.Json.dll
+22/04/2019  00:57           688,829 Newtonsoft.Json.xml
+               2 File(s)      1,352,805 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\netstandard2.0
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+22/04/2019  01:06           669,608 Newtonsoft.Json.dll
+22/04/2019  00:57           700,690 Newtonsoft.Json.xml
+               2 File(s)      1,370,298 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\portable-net40+sl5+win8+wp8+wpa81
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+22/04/2019  01:06           453,032 Newtonsoft.Json.dll
+22/04/2019  00:57           513,671 Newtonsoft.Json.xml
+               2 File(s)        966,703 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\Newtonsoft.Json.12.0.2\lib\portable-net45+win8+wp8+wpa81
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+22/04/2019  01:06           645,032 Newtonsoft.Json.dll
+22/04/2019  00:57           680,623 Newtonsoft.Json.xml
+               2 File(s)      1,325,655 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\WebGrease.1.6.0
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+13/12/2018  13:58             9,482 .signature.p7s
+13/10/2020  11:07    <DIR>          lib
+13/10/2020  11:07    <DIR>          tools
+04/06/2020  10:12           474,536 WebGrease.1.6.0.nupkg
+               2 File(s)        484,018 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\WebGrease.1.6.0\lib
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+23/01/2014  13:57         1,274,520 WebGrease.dll
+               1 File(s)      1,274,520 bytes
+
+ Directory of C:\Users\micha\Source\Repos\test\packages\WebGrease.1.6.0\tools
+
+13/10/2020  11:07    <DIR>          .
+13/10/2020  11:07    <DIR>          ..
+23/01/2014  13:57            28,304 WG.EXE
+               1 File(s)         28,304 bytes
+
+     Total Files Listed:
+             654 File(s)    131,504,317 bytes
+             851 Dir(s)  70,643,097,600 bytes free
